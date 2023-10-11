@@ -1,0 +1,1 @@
+web: gunicorn usa_job_last.wsgi --log-file -

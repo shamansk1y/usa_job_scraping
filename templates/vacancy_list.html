@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block title %} Job Finder {% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <div class="row">
+        <!-- Left column for filter -->
+
+        {% include 'filter.html' %}
+
+        <!-- Right column for vacancy list -->
+        <div class="col-md-9">
+            {% if page_obj %}
+                <h3 class="my-4">This is a non-commercial service for collecting vacancies</h3>
+                <a class="my-4">Every day we analyze sites with vacancies, All suitable vacancies (Python Developer)
+                    that have been published on these sites over the past 24 hours are recorded in the database and sent
+                    to subscribers according to their preferences. The service is currently checking relevant vacancies
+                    on websites: indeed, linkedin, glassdoor, dice, ladders, flexjobs , builtin, themuse</a>
+                {% for obj in  page_obj %}
+                    <div class="card my-3">
+                        <h5 class="card-header"><a href="{{ obj.url }}">{{ obj.title }}</a></h5>
+                        <div class="card-body">
+                            <p class="card-text">{{ obj.description }}</p>
+                            <p><strong>{{ obj.company }}</strong></p>
+                            <p>All City(USA)/Remote | Python | {{ obj.search_source }} |
+                                <small>{{ obj.timestamp|date:"d-m-Y" }}</small></p>
+                        </div>
+                    </div>
+                {% endfor %}
+                <div class="col-12">
+
+                {% include 'pagination.html' %}
+
+            {% else %}
+                <h3 class="my-4 text-center">There are no vacancies available at this moment..</h3>
+            {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
