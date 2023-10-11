@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Vacancy(models.Model):
-    url = models.URLField(unique=True)
+    url = models.URLField(max_length=500, unique=True)
     title = models.CharField(max_length=250, verbose_name='Name vacancy')
     company = models.CharField(max_length=250, verbose_name='Company')
     description = models.TextField(verbose_name='Vacancy description')
