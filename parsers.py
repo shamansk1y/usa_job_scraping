@@ -23,20 +23,20 @@ ua = UserAgent()
 headers = {'User-Agent': ua.random}
 
 # local config
-service = Service()
-chrome_options = webdriver.ChromeOptions()
-# chrome_options.add_argument("--headless")
-chrome_options.add_argument("--disable-dev-shm-usage")
-chrome_options.add_argument("--no-sandbox")
-driver = webdriver.Chrome(service=service, options=chrome_options)
+# service = Service()
+# chrome_options = webdriver.ChromeOptions()
+# # chrome_options.add_argument("--headless")
+# chrome_options.add_argument("--disable-dev-shm-usage")
+# chrome_options.add_argument("--no-sandbox")
+# driver = webdriver.Chrome(service=service, options=chrome_options)
 
 # deploy config
-# chrome_options = webdriver.ChromeOptions()
-# # chrome_options.add_argument('--headless')
-# chrome_options.add_argument('--disable-dev-shm-usage')
-# chrome_options.add_argument('--no-sandbox')
-# service = Service(executable_path=os.environ.get("CHROMEDRIVER_PATH"))
-# driver = webdriver.Chrome(service=service, options=chrome_options)
+chrome_options = webdriver.ChromeOptions()
+# chrome_options.add_argument('--headless')
+chrome_options.add_argument('--disable-dev-shm-usage')
+chrome_options.add_argument('--no-sandbox')
+service = Service(executable_path=os.environ.get("CHROMEDRIVER_PATH"))
+driver = webdriver.Chrome(service=service, options=chrome_options)
 
 
 def save_jobs_to_database(jobs):
@@ -375,6 +375,6 @@ if __name__ == '__main__':
             print(f"Error in {parser_func.__name__}: {str(e)}")
 
     save_jobs_to_database(all_jobs)
-    ex_day = dt.date.today() - dt.timedelta(1)
+    ex_day = dt.date.today() - dt.timedelta(30)
     Vacancy.objects.filter(timestamp__lte=ex_day).delete()
     driver.quit()

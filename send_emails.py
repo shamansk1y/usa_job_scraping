@@ -5,7 +5,7 @@ from django.core.mail import EmailMultiAlternatives
 
 proj = os.path.dirname(os.path.abspath('manage.py'))
 sys.path.append(proj)
-os.environ["DJANGO_SETTINGS_MODULE"] = "vacancy.settings"
+os.environ["DJANGO_SETTINGS_MODULE"] = "usa_job_last.settings"
 
 django.setup()
 from scraping.models import Vacancy
