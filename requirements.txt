@@ -4,6 +4,7 @@ beautifulsoup4==4.8.2
 certifi==2023.7.22
 cffi==1.16.0
 charset-normalizer==3.3.0
+chromedriver-binary==117.0.5938.92.0
 dj-database-url==2.1.0
 Django==4.2.6
 fake-useragent==1.2.1
