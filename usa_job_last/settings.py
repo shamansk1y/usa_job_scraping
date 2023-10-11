@@ -2,7 +2,7 @@ from pathlib import Path
 import os
 # from dotenv import load_dotenv
 # load_dotenv()
-
+import dj_database_url
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -84,7 +84,7 @@ DATABASES = {
     }
 }
 
-import dj_database_url
+
 db = dj_database_url.config()
 DATABASES['default'].update(db)
 
