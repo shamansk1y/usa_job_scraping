@@ -47,15 +47,9 @@ def save_jobs_to_database(jobs):
         title = job_data['title'].lower()
         if not any(keyword in title for keyword in skip_keywords) and any(keyword in title for keyword in no_skip_keywords_keywords):
             url = job_data['url']
-            url_2 = ''
-
-            if len(url) > 250:
-                url, url_2 = url[:250], url[250:]
-
             if not Vacancy.objects.filter(url=url).exists():
                 job = Vacancy(
                     url=url,
-                    url_2=url_2,
                     title=job_data['title'],
                     company=job_data['company'],
                     description=job_data['description'],

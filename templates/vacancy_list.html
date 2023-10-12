@@ -19,7 +19,7 @@
                     on websites: indeed, linkedin, glassdoor, dice, ladders, flexjobs , builtin, themuse</a>
                 {% for obj in  page_obj %}
                     <div class="card my-3">
-                        <h5 class="card-header"><a href="{{ obj.full_url }}">{{ obj.title }}</a></h5>
+                        <h5 class="card-header"><a href="{{ obj.url }}">{{ obj.title }}</a></h5>
                         <div class="card-body">
                             <p class="card-text">{{ obj.description }}</p>
                             <p><strong>{{ obj.company }}</strong></p>
