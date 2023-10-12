@@ -24,7 +24,7 @@ DB_PORT = os.environ.get('DB_PORT')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['usa-job-82bf07751780.herokuapp.com']
+ALLOWED_HOSTS = ['usa-job-b87eea34e87a.herokuapp.com']
 
 
 INSTALLED_APPS = [

@@ -1,0 +1,2283 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.710Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "99",
+    "object_repr": "AI Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.717Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "98",
+    "object_repr": "Python Developer -(24657-1)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.724Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "97",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.730Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "96",
+    "object_repr": "Jr. Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.737Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "95",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.744Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "94",
+    "object_repr": "Python Developer Generative AI",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.749Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "93",
+    "object_repr": "Python Developer  REMOTE WORK 46546",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.756Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "92",
+    "object_repr": "Python Developer(McLean-VA- Only Locals)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.763Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "91",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.769Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "90",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.774Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "89",
+    "object_repr": "Python Full stack Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.779Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "88",
+    "object_repr": "AWS Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.785Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "87",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.792Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "86",
+    "object_repr": "Java Developer with Python",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.798Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "85",
+    "object_repr": "Sr Python with Pandas",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.804Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "84",
+    "object_repr": "R, SQL, Python Systems Analyst",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.811Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "83",
+    "object_repr": "Python Developer w/ AWS Cloud exp",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.817Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "82",
+    "object_repr": "Python Developer w/ AWS Cloud exp",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.823Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "81",
+    "object_repr": "Python Developer w/ AWS Cloud exp",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.830Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "80",
+    "object_repr": "Python with SDET",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.836Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "79",
+    "object_repr": "Python API Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.843Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "78",
+    "object_repr": "Test Automation Architect (Google Cloud , BigQuery, Python) - Local to NY, NJ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.850Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "77",
+    "object_repr": "Data Quality Analyst (SQL & Python)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.856Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "76",
+    "object_repr": "Sr. Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.862Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "75",
+    "object_repr": "Sr Integration Business Analyst (Documentation, SQL, Integration, Python/Remote)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.869Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "74",
+    "object_repr": "Data Analyst (Good Experience in R, SQL, Python)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.874Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "73",
+    "object_repr": "Python Developer _ (W2 Position)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.880Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "72",
+    "object_repr": "Product Manager- Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.886Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "71",
+    "object_repr": "Entry Level Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.892Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "70",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.898Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "69",
+    "object_repr": "Spark, PythonDeveloper",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.903Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "68",
+    "object_repr": "Python Developer (Entry Level) - US/Canada",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.911Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "67",
+    "object_repr": "Python Developer with AI/ML",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.917Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "66",
+    "object_repr": ".Net Developer (with Python & Java Experience)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.922Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "65",
+    "object_repr": "Python Developer with Azure Admin",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.928Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "64",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.934Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "63",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.940Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "62",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.946Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "61",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.952Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "60",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.959Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "59",
+    "object_repr": "Python Developer - Mclean, VA (Only Local Candidates) - only W2 candidates",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.965Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "58",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.972Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "57",
+    "object_repr": "Python Developer with spark or Hadoop!!! NO C2C!!! Only W2 consultants",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.978Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "56",
+    "object_repr": "python developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.985Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "55",
+    "object_repr": "Python Developer -(24657-1)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.990Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "54",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2023-10-12T01:51:22.996Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "53",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.001Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "52",
+    "object_repr": "PYTHON DEVELOPER",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.007Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "51",
+    "object_repr": "PYTHON DEVELOPER",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.013Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "50",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.019Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "49",
+    "object_repr": "PYTHON DEVELOPER",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.024Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "48",
+    "object_repr": "Python Developer  REMOTE WORK 46546",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.030Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "47",
+    "object_repr": "Python Developer(McLean-VA- Only Locals)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.036Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "46",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.042Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "45",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.048Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "44",
+    "object_repr": "Python Full stack Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.054Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "43",
+    "object_repr": "AWS Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.060Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "42",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.067Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "41",
+    "object_repr": "Java Developer with Python",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.074Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "40",
+    "object_repr": "Sr Python with Pandas",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.081Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "39",
+    "object_repr": "R, SQL, Python Systems Analyst",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.088Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "38",
+    "object_repr": "Python Developer w/ AWS Cloud exp",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.095Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "37",
+    "object_repr": "Python Developer w/ AWS Cloud exp",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.101Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "36",
+    "object_repr": "Python Developer w/ AWS Cloud exp",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.108Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "35",
+    "object_repr": "Python with SDET",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.113Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "34",
+    "object_repr": "Python API Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.119Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "33",
+    "object_repr": "Test Automation Architect (Google Cloud , BigQuery, Python) - Local to NY, NJ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.125Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "32",
+    "object_repr": "Data Quality Analyst (SQL & Python)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.148Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "31",
+    "object_repr": "Sr. Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.154Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "30",
+    "object_repr": "Sr Integration Business Analyst (Documentation, SQL, Integration, Python/Remote)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.160Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "29",
+    "object_repr": "Data Analyst (Good Experience in R, SQL, Python)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.167Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "28",
+    "object_repr": "Python Developer _ (W2 Position)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.173Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "27",
+    "object_repr": "DevOps/Python Specialist-Expert (Government)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 74,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.179Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "26",
+    "object_repr": "Python Developer - Solution Specialist",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 75,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.185Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "25",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 76,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.190Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "24",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 77,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.197Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "23",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 78,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.202Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "22",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 79,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.208Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "21",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 80,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.216Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "20",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 81,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.222Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "19",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 82,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.229Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "18",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 83,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.236Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "17",
+    "object_repr": "Python Developer with spark or Hadoop!!! NO C2C!!! Only W2 consultants",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 84,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.242Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "16",
+    "object_repr": "Python Developer - Mclean, VA (Only Local Candidates) - only W2 candidates",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 85,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.248Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "15",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 86,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.254Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "14",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 87,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.260Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "13",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 88,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.266Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "Python Developer with AI/ML",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 89,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.272Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Spark, PythonDeveloper",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 90,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.278Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 91,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.284Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 92,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.290Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Entry Level Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 93,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.295Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 94,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.301Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Jr. Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 95,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.307Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 96,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.313Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 97,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.318Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Python Developer (Entry Level) - US/Canada",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 98,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.324Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 99,
+  "fields": {
+    "action_time": "2023-10-12T01:51:23.330Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Python Developer",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add Job vacancy",
+    "content_type": 7,
+    "codename": "add_vacancy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change Job vacancy",
+    "content_type": 7,
+    "codename": "change_vacancy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete Job vacancy",
+    "content_type": 7,
+    "codename": "delete_vacancy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view Job vacancy",
+    "content_type": 7,
+    "codename": "view_vacancy"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$yGmj4aDVtHcW2rZMgxVXvG$sXn6OGa+/RMvOdCgsd3YDzoJzF2A23b9WJTJ2fZRUko=",
+    "last_login": "2023-10-12T01:45:38.326Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-10-12T01:41:33.318Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "scraping",
+    "model": "vacancy"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "pbujyzccyc5g3re91hofszexxqa9xrfa",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEMyKMu3fcbyDAMtmogKe3K-O_apAvd3nPOfYmI2zrFrfMS5ywuAsTpd0tID647yHestyap1XWZk9wVedAux5b5eT3cv4MJ-_StnQoIwTuDiKwVuaEwaCAPZOBsNHEYXOaSrQJH2jqrYSjBah-SSgrE-wPOEDcD:1qqkle:yj_YUcBk-Bj2CKHtQhotWk7b6JFBYM1EdxKZyZH3sz8",
+    "expire_date": "2023-10-26T01:45:38.333Z"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 100,
+  "fields": {
+    "url": "https://www.indeed.com/rc/clk?jk=7f4fa84079fb4733&fccid=db130263a2af3230&vjs=3",
+    "title": "Python Developer",
+    "company": "Agama Solutions",
+    "description": "\nService description: Python developer to work on improvements to internal projects.\nSkill and capability requirement: Python developer to improve performance,…\n",
+    "search_source": "www.indeed.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 101,
+  "fields": {
+    "url": "https://www.linkedin.com/jobs/view/python-developer-entry-level-us-canada-at-patterned-learning-ai-tech-recruitment-staffing-3737048249?refId=Gc4Xo4%2BfPcOdXlPA4a58kw%3D%3D&trackingId=kE0EcuZZ6FmKUA%2FYI1uK9g%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Python Developer (Entry Level) - US/Canada",
+    "company": "Patterned Learning AI - Tech Recruitment & Staffing",
+    "description": "",
+    "search_source": "www.linkedin.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 102,
+  "fields": {
+    "url": "https://www.linkedin.com/jobs/view/python-developer-at-intello-group-inc-3736022010?refId=Gc4Xo4%2BfPcOdXlPA4a58kw%3D%3D&trackingId=Q40NuxzL1jYs5CP9EcMdVw%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Python Developer",
+    "company": "Intello Group, Inc.",
+    "description": "",
+    "search_source": "www.linkedin.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 103,
+  "fields": {
+    "url": "https://www.linkedin.com/jobs/view/python-developer-at-mavinsys-3737512648?refId=Gc4Xo4%2BfPcOdXlPA4a58kw%3D%3D&trackingId=BZMO6UdjwDUY1olntcG8fg%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Python Developer",
+    "company": "Mavinsys",
+    "description": "",
+    "search_source": "www.linkedin.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 104,
+  "fields": {
+    "url": "https://www.linkedin.com/jobs/view/python-developer-at-krg-technologies-inc-3732077149?refId=Gc4Xo4%2BfPcOdXlPA4a58kw%3D%3D&trackingId=2UlOkNELCuHKNHjQAM0nAQ%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Python Developer",
+    "company": "KRG Technologies Inc.",
+    "description": "",
+    "search_source": "www.linkedin.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 105,
+  "fields": {
+    "url": "https://www.linkedin.com/jobs/view/entry-level-python-developer-at-synergisticit-3737531969?refId=Gc4Xo4%2BfPcOdXlPA4a58kw%3D%3D&trackingId=WnygBCdmM5Yjp1u4AJBcAw%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Entry Level Python Developer",
+    "company": "SynergisticIT",
+    "description": "",
+    "search_source": "www.linkedin.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 106,
+  "fields": {
+    "url": "https://www.linkedin.com/jobs/view/python-developer-at-techwish-3737538263?refId=Gc4Xo4%2BfPcOdXlPA4a58kw%3D%3D&trackingId=PonQ8VdQkP3mP0M8hbcacw%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Python Developer",
+    "company": "TechWish",
+    "description": "",
+    "search_source": "www.linkedin.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 107,
+  "fields": {
+    "url": "https://www.linkedin.com/jobs/view/python-developer-at-hash-technologies-inc-3736312681?refId=Gc4Xo4%2BfPcOdXlPA4a58kw%3D%3D&trackingId=Px7saVDWcpTM%2Bijqv%2BG9nw%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Python Developer",
+    "company": "Hash Technologies Inc",
+    "description": "",
+    "search_source": "www.linkedin.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 108,
+  "fields": {
+    "url": "https://www.linkedin.com/jobs/view/spark-pythondeveloper-at-trident-consulting-3731581111?refId=Gc4Xo4%2BfPcOdXlPA4a58kw%3D%3D&trackingId=Zn4m84i%2BvU89519%2FouNGZw%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Spark, PythonDeveloper",
+    "company": "Trident Consulting",
+    "description": "",
+    "search_source": "www.linkedin.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 109,
+  "fields": {
+    "url": "https://www.linkedin.com/jobs/view/python-developer-with-ai-ml-at-tek-ninjas-3731584433?refId=Gc4Xo4%2BfPcOdXlPA4a58kw%3D%3D&trackingId=pN5cOgAu72uBefaQLc8g4A%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Python Developer with AI/ML",
+    "company": "TEK NINJAS",
+    "description": "",
+    "search_source": "www.linkedin.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 110,
+  "fields": {
+    "url": "https://www.linkedin.com/jobs/view/python-developer-at-kforce-inc-3732026885?refId=Gc4Xo4%2BfPcOdXlPA4a58kw%3D%3D&trackingId=mIeWXjKRuZFyzMHNsP349Q%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Python Developer",
+    "company": "Kforce Inc",
+    "description": "",
+    "search_source": "www.linkedin.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 111,
+  "fields": {
+    "url": "https://www.linkedin.com/jobs/view/python-developer-at-apex-systems-3737280409?refId=Gc4Xo4%2BfPcOdXlPA4a58kw%3D%3D&trackingId=KwCbU%2BhPhg7v3XQu7ItOJA%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Python Developer",
+    "company": "Apex Systems",
+    "description": "",
+    "search_source": "www.linkedin.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 112,
+  "fields": {
+    "url": "https://www.linkedin.com/jobs/view/python-developer-at-kforce-inc-3732030243?refId=Gc4Xo4%2BfPcOdXlPA4a58kw%3D%3D&trackingId=U5U4Hpifq5Y2xpLNp%2FsVpw%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Python Developer",
+    "company": "Kforce Inc",
+    "description": "",
+    "search_source": "www.linkedin.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 113,
+  "fields": {
+    "url": "https://www.linkedin.com/jobs/view/python-developer-mclean-va-only-local-candidates-only-w2-candidates-at-biogensys-3731581957?refId=Gc4Xo4%2BfPcOdXlPA4a58kw%3D%3D&trackingId=7t%2BxhoKTteOaogea51U2%2FQ%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Python Developer - Mclean, VA (Only Local Candidates) - only W2 candidates",
+    "company": "Biogensys",
+    "description": "",
+    "search_source": "www.linkedin.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 114,
+  "fields": {
+    "url": "https://www.linkedin.com/jobs/view/python-developer-with-spark-or-hadoop%21%21%21-no-c2c%21%21%21-only-w2-consultants-at-srimatrix-inc-3736084133?refId=Gc4Xo4%2BfPcOdXlPA4a58kw%3D%3D&trackingId=oEqroslS4jhWKeq%2Fw0vDzg%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Python Developer with spark or Hadoop!!! NO C2C!!! Only W2 consultants",
+    "company": "Srimatrix Inc.",
+    "description": "",
+    "search_source": "www.linkedin.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 115,
+  "fields": {
+    "url": "https://www.linkedin.com/jobs/view/python-developer-with-azure-admin-at-dice-3734803290?refId=Gc4Xo4%2BfPcOdXlPA4a58kw%3D%3D&trackingId=vNIGTlqqYKVRBxAxayLgpA%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": "Python Developer with Azure Admin",
+    "company": "Dice",
+    "description": "",
+    "search_source": "www.linkedin.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 116,
+  "fields": {
+    "url": "https://www.linkedin.com/jobs/view/net-developer-with-python-java-experience-at-diverse-lynx-3731581122?refId=Gc4Xo4%2BfPcOdXlPA4a58kw%3D%3D&trackingId=zDHIjnfTk%2BfV8NRYjtu%2BUg%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card",
+    "title": ".Net Developer (with Python & Java Experience)",
+    "company": "Diverse Lynx",
+    "description": "",
+    "search_source": "www.linkedin.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 117,
+  "fields": {
+    "url": "https://builtin.com/job/product/product-manager-python-developer/1986529",
+    "title": "Product Manager- Python Developer",
+    "company": "InterSystems",
+    "description": "",
+    "search_source": "www.builtin.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 118,
+  "fields": {
+    "url": "https://www.themuse.com//jobs/leidos/python-developer",
+    "title": "Python Developer",
+    "company": "Leidos",
+    "description": "",
+    "search_source": "www.themuse.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 119,
+  "fields": {
+    "url": "https://www.themuse.com//jobs/kforce/python-developer-7d49e2",
+    "title": "Python Developer",
+    "company": "Kforce",
+    "description": "",
+    "search_source": "www.themuse.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 120,
+  "fields": {
+    "url": "https://www.themuse.com//jobs/leidos/python-developer-1ea342",
+    "title": "Python Developer",
+    "company": "Leidos",
+    "description": "",
+    "search_source": "www.themuse.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 121,
+  "fields": {
+    "url": "https://www.themuse.com//jobs/infosys/python-developer-ee7a42",
+    "title": "Python Developer",
+    "company": "Infosys",
+    "description": "",
+    "search_source": "www.themuse.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 122,
+  "fields": {
+    "url": "https://www.themuse.com//jobs/kforce/python-developer-312c89",
+    "title": "Python Developer",
+    "company": "Kforce",
+    "description": "",
+    "search_source": "www.themuse.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 123,
+  "fields": {
+    "url": "https://www.themuse.com//jobs/capgemini/python-developer-03809a",
+    "title": "Python Developer",
+    "company": "Capgemini",
+    "description": "",
+    "search_source": "www.themuse.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 124,
+  "fields": {
+    "url": "https://www.themuse.com//jobs/nielsen/python-developer-74bab0",
+    "title": "Python Developer",
+    "company": "Nielsen",
+    "description": "",
+    "search_source": "www.themuse.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 125,
+  "fields": {
+    "url": "https://www.themuse.com//jobs/novartis/python-developer-3ebcb1",
+    "title": "Python Developer",
+    "company": "Novartis",
+    "description": "",
+    "search_source": "www.themuse.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 126,
+  "fields": {
+    "url": "https://www.themuse.com//jobs/deloitte/python-developer-solution-specialist",
+    "title": "Python Developer - Solution Specialist",
+    "company": "Deloitte",
+    "description": "",
+    "search_source": "www.themuse.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 127,
+  "fields": {
+    "url": "https://www.themuse.com//jobs/att/devopspython-specialistexpert-government-d54c92",
+    "title": "DevOps/Python Specialist-Expert (Government)",
+    "company": "AT&T",
+    "description": "",
+    "search_source": "www.themuse.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 128,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/5d5d8853-ac70-4b69-a4d9-eb97325e6d34?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Python Developer _ (W2 Position)",
+    "company": "SoftPath Technologies LLC",
+    "description": "Title: Python DeveloperLocation: Mclean VA and Dc Metro area-USA (ONSITE)- Only LocalsDuration:12+ MonthsExperience: 10+ YearsMust Haves: Python, Rest API (Flask or Fast API), Pandas or NumPy.OverviewOver 7+ years of exp needed preferably 10+ years out of which 5+ years should be only in PythonStrong Python Developers needed.REST API Development using Flask/FastAPI.Not much of AWS work in this project, though it is good to have.OOPs concepts neededFlask/FastAPI Either one will work  should have",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 129,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/91a2b9cc-2f94-42fa-81ec-a39f145d2ddb?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Data Analyst (Good Experience in R, SQL, Python)",
+    "company": "GSRINC",
+    "description": "Hi,We are hiring Junior to Mid Level Data Analyst experience in R, SQL, Python, Process mapping/documentation.This role is on W2 and LOCAL CANDIDATE ONLY TO BAY AREA/OAKLAND, CA GO. ASSIGNMENT IS HYBRID AND REQUIRED ON-SITE AT OGO 1-2 TIMES MONTH.TOP THINGS LOOKING FOR:R, SQL, Python experience.Process mapping/documentation experience.General program support: Analysis, Reporting, Daily/Weekly/Monthly repeatable tasks.Job Description:Will be supporting Demand Response programmatic and operational",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 130,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/9a5612f0-04ab-41be-b167-f5a7941e0728?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Sr Integration Business Analyst (Documentation, SQL, Integration, Python/Remote)",
+    "company": "Diligente Technologies",
+    "description": "Title: Sr Integration Business Analyst Job Description: Strong BA with documentation expStrong SQL must have.SQL knowledge: Ideally someone that has experience in BigQuery since it is the platform that the data engineering team recommends to query GDO Data.Exposure to SAP environment.Strong Integration experience with any tool is fine.Dataiku exp is fine but not critical.Some Python exp is nice to have but not critical.Power BI: This is definitely a plusThis person has to work closely with Londo",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 131,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/7675eb71-fc25-438e-9a57-8ed2d6bcb24f?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Sr. Python Developer",
+    "company": "Synechron",
+    "description": "Description: Expert in Python, with knowledge of at least one Python web framework (such as Django, Flask, etc. depending on your technology stack)Writing reusable, testable, and efficient codeExperience with Pandas and LoopKnowledge of building REST endpointsDesign and implementation of low-latency, high-availability, and performant applicationsIntegration of user-facing elements developed by front-end developers with server side logicIntegration of data storage solutions, e.g. databases, key-v",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 132,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/b8bc3ca0-4e59-4868-ab8b-8ecc25581a1f?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Data Quality Analyst (SQL & Python)",
+    "company": "Prime Solutions, Inc.",
+    "description": "Required Key Skills: SQL, PySpark, Python. Responsibilities: Collaborating with database developers to improvedatacollection and storage processes. Runningdataqueries to identify coding issues anddataexceptions, as well as cleaningdata.  Reporting data analysis findings to management to inform business decisions and prioritize information system needs. Documenting processes and maintainingdatarecords. Adhering to best practices indataanalysis and collection. Keeping abreast of developments and t",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 133,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/4ad37963-8235-4ff1-97b5-6393e88d6d0a?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Test Automation Architect (Google Cloud , BigQuery, Python) - Local to NY, NJ",
+    "company": "K Anand Corporation",
+    "description": "Position: Test Automation Architect (Google Cloud , BigQuery, Python) - Local to NY, NJ Duration : Contract : 12 Months Location : Brooklyn, NewYork ( Day 1 Onsite)  Job Description:  Required Qualifications  Candidate can be located within commuting distance of Brooklyn, NewYork . This position may require travel in the US. Test Automation Architect with Experience in Python, BigQuery, Google Cloud Platform, E2E testing Good development/automation/testing experience . Excellent problem-solving",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 134,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/3ad6d1b0-0ffa-43e0-8fa8-78d4062c6691?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Python API Developer",
+    "company": "LTIMindtree",
+    "description": "A little about us LTIMindtree is a global technology consulting and digital solutions company that enables enterprises across industries to reimagine business models, accelerate innovation, and maximize growth by harnessing digital technologies. As a digital transformation partner to more than 750 clients, LTIMindtree brings extensive domain and technology expertise to help drive superior competitive differentiation, customer experiences, and business outcomes in a converging world. Powered by n",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 135,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/dac4712f-ef70-4254-9057-5e594a76b770?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Python with SDET",
+    "company": "Exatech Inc",
+    "description": "Hello , This is  Joseph from  Exatech  Inc. I have an urgent opening of Python with SDET in Austin TX || Remote Role. Role: Python with SDET  Duration: 12+ Months Interview: Video Location: Austin TX Remote Must Minimum of 6+ years with Master or 8+ years with Bachelors of hand on experience in software development in test automation, concurrent coding skills in Python.  Strong experience in python programming (3.x) Hands on experience on Robot Framework Strong experience in Data science librari",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 136,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/d89a270a-9896-47f6-b024-c364aa1af02c?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Python Developer w/ AWS Cloud exp",
+    "company": "SPECTRAFORCE TECHNOLOGIES Inc.",
+    "description": "Senior Cloud Engineer Durham, NC/ Merrimack, NH/ Westlake, TX-Hybrid ( 1 week onsite /month) 12 months+ Contract W2 Only Minimum Pay rate starts from $60/hr  Candidate Profile: A strong development background in Python or Golang, (no Java anymore) and very strong AWS cloud skills in API Gateway, and Lambda experience.They will also need to have some experience in Observability within either Splunk, Data Dog, Prometheus, etc. Not an expert by any means, but some knowledge or experience will be re",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 137,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/735834ff-ba35-44c7-b0d0-3a1392ce160c?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Python Developer w/ AWS Cloud exp",
+    "company": "SPECTRAFORCE TECHNOLOGIES Inc.",
+    "description": "Senior Cloud Engineer Durham, NC/ Merrimack, NH/ Westlake, TX-Hybrid ( 1 week onsite /month) 12 months+ Contract W2 Only Minimum Pay rate starts from $60/hr Candidate Profile: A strong development background in Python or Golang, (no Java anymore) and very strong  AWS cloud skills in API Gateway, and Lambda experience. They will also need to have some experience in Observability within either Splunk, Data Dog, Prometheus, etc. Not an expert by any means, but some knowledge or experience will be r",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 138,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/0ae30047-899a-470b-b9dd-3a714c6e5bdb?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Python Developer w/ AWS Cloud exp",
+    "company": "SPECTRAFORCE TECHNOLOGIES Inc.",
+    "description": "Senior Cloud Engineer Durham, NC/ Merrimack, NH/ Westlake, TX-Hybrid ( 1 week onsite /month) 12 months+ Contract W2 Only Minimum Pay rate starts from $60/hr Candidate Profile: A strong development background in Python or Golang, (no Java anymore) and very strong  AWS cloud skills in API Gateway, and Lambda experience. They will also need to have some experience in Observability within either Splunk, Data Dog, Prometheus, etc. Not an expert by any means, but some knowledge or experience will be r",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 139,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/b3c5f12c-9538-4332-9f04-8256f39af781?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "R, SQL, Python Systems Analyst",
+    "company": "Zeektek",
+    "description": "Will be supporting Demand Response programmatic and operational activities.  R, SQL, and Python experience required to run existing processes.  Ability to reconcile data among multiple systems.  Translate processes and procedures into formal documentation.  Supports specific software applications to ensure optimal utilization, functionality and availability.  Works on problems of moderate scope where analysis of situations or data requires a review of a variety of factors.  Analyzes reasonably c",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 140,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/557ab9a1-7ff1-48cd-8286-1c962fdf5d2a?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Sr Python with Pandas",
+    "company": "Synechron",
+    "description": "Synechron Inc is seeking a Sr Python with Pandas Job Description financial services to join our Charlotte, NC (onsite 3 days a week is a must in Hybris ) long-term contract.  Enterprise Data Group is seeking an experienced SQL & Python Developer who also has experience designing and building software solutions. You will work closely with business partners aligned with the Quants in the Portfolio Solutions & Analytics (PSA) and Enterprise Risk teams to translate business requirements to technolog",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 141,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/9760c98d-fb34-4e92-a94f-072c0307bc8f?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Java Developer with Python",
+    "company": "SSTech LLC",
+    "description": "Title: JavaDeveloperwithPython Location: WashingtonDC Duration: 12+ Months Years of exp : 5-10 years Job Description: Collaboratewithproduct owners, UX designers, data analysts, scrum masters, and developers to develop a world-class user experience. Recommend and effectively explain improvements in functionality, and UX elements that enable users to achieve their goals. Be an expert in building working relationships across divisions.Research, advocate and implement industry standard coding metho",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 142,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/ee335802-b3e6-4e30-955d-71a889e8af3f?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Python Developer",
+    "company": "BayOne Solutions",
+    "description": "Role: Python Developer Location: Remote Duration:12+ Months Pay Rate: $55 - $65/Hr. W2 MINIMUM REQUIREMENTS: Must have Qualifications)  The successful applicants will be performing work in a FedRAMP environment that requires the applicant to be a U.S. Person (i.e. U.S. citizen, U.S. national, lawful permanent resident, asylee, or refugee).  Must have 5+ years of full-stack development experience in Python  Must have experience using Terraform or similar Infrastructure-As-Code tools  Must have ex",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 143,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/47672c30-e3dc-4dd3-a886-0c5959623603?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "AWS Python Developer",
+    "company": "PETADATA",
+    "description": "Position: AWS Python Developer  Location: Atlanta, GA  Experience: 10 Years  PETADATA is currently looking to hire a AWS Python Developer for their team. This is a C2C,  who is highly capable of and deeply passionate about understanding and translating customer needs into actionable development plans and strong technical and excellent communication and social skills, which can assist in gathering requirements and facilitating conversations and implementing thorough documentation. PETADATA was es",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 144,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/daa68b07-d207-4c4e-85de-dfd92700c1a9?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Python Full stack Developer",
+    "company": "Dataquad Inc.",
+    "description": "Role: Python Full stack Developer Location: McLean, VA(Need Locals only) Duration: Long Term Job Description:  Need 10 years of experience  Must Haves: Python, Rest API (Flask or Fast API), Pandas or NumPy. Schedule: Occasional flexibility to accommodate monthly on-call rotation supporting production.  Technical Skills:Strong Proficiency in Python programming language, including experience with frameworks such as Flask, Django and Fast API  Experience with Restful API s and micro services archit",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 145,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/df4684c5-a0ba-4ca4-91b8-6cced857bb98?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Python Developer",
+    "company": "BCforward",
+    "description": "Python Developer  BCForward is seeking a highly motivated and experienced Python Developer  for an opportunity in Charlotte, NC.  Job Title: Python Developer Location: Charlotte, NC  Anticipated Start Date: 12/01  Please note this is the target date and is subject to change. BCforward will send official notice ahead of a confirmed start date. Expected Duration: Expected Duration 12 Months Job Type: FULL TIME, CONTRACT, ON-SITE  Pay Rate: $65/hr on w2  Please note that actual compensation may var",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 146,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/b64d9753-8fcd-40c5-b331-04d0bb2b8168?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Python Developer",
+    "company": "BCforward",
+    "description": "Python Developer  BCForward is seeking a highly motivated and experienced Python Developer  for an opportunity in Charlotte, NC.  Job Title: Python Developer Location: Charlotte, NC  Anticipated Start Date: 12/01  Please note this is the target date and is subject to change. BCforward will send official notice ahead of a confirmed start date. Expected Duration: Expected Duration 12 Months Job Type: FULL TIME, CONTRACT, ON-SITE  Pay Rate: $65/hr on w2  Please note that actual compensation may var",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 147,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/c1b0804b-ac05-42f6-8ddc-7e8ef3afdc5a?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Python Developer(McLean-VA- Only Locals)",
+    "company": "Araxis Systems Inc",
+    "description": "Position Details: Client:Collabera  Industry: Banking/Information Technology Position:PythonDeveloper Location: Hybrid (Mclean, VA- ONLY LOCALS) Duration: 12 Months Exp: 8+ Responsibilities include: Engineer capable of designing solutions, writing code, testing code, automating test and deploymentDevelop and maintain high-quality software code and automated tests (including Unit, Functional, Performance, Acceptance) for web interface application that integrates data, analytics, and reporting com",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 148,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/5c737c33-184c-49e6-aa4a-fa6db6db8892?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Python Developer  REMOTE WORK 46546",
+    "company": "PRIMUS Global Services Inc.,",
+    "description": "We have an immediate long-term opportunity with one of our prime clients for a position of Python Developer, to work  on a remote basis. Responsibilities: Collaborate with cross-functional teams to design and implement AI/ML solutions. Develop, test, and deploy high-quality Python code for AI/ML applications. Implement unit tests to ensure code reliability and maintainability. Debug and resolve issues in Python codebase, ensuring optimal performance. Stay updated with the latest developments in",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 149,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/fc8f0346-c1bd-447d-bbc3-870f7e4e614f?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Python Developer Generative AI",
+    "company": "Rose International",
+    "description": "Date Posted: 10/11/2023 Hiring Organization: Rose International Position Number: 451931 Job Title: Python Developer Generative AI Job Location: Remote, USA Employment Type: Temporary  Estimated Duration (In Weeks): 24  Min Hourly Rate($): 70.00  Max Hourly Rate($): 75.00  Skills/Attributes: Artificial Intelligence (AI), Banking/Financial, CICD, Machine Learning, Natural Language Understanding (NLU), Python, Pytorch, Tensorflow  Job Description **Only those lawfully authorized to work in the desi",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 150,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/f7f23f82-3aef-4aeb-9449-3184e257b4c9?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Python Developer",
+    "company": "SoftPath Technologies LLC",
+    "description": "We currently have the below urgent requirement pls reach me at  with suitable profiles  Title: Python Developer Location: Mclean VA and Dc Metro area- USA (ONSITE)- Only Locals Duration:12+ Months Experience: 10+ Years  Must Haves: Python, Rest API (Flask or Fast API), Pandas or NumPy.  Overview Over 7+ years of exp needed preferably 10+ years out of which 5+ years should be only in PythonStrong Python Developers needed.REST API Development using Flask/FastAPI.Not much of AWS work in this projec",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 151,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/37148e8b-d163-42e4-873c-9862ffbaec93?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Jr. Python Developer",
+    "company": "Experis",
+    "description": "Job Title: JuniorPython Developer Location: Milwaukee, Wisconsin Job Overview: Our client is seeking a Python Developer to join their team. This role offers a great opportunity for entry level candidates with 1-3 years of Python development experience. You will work on projects involving AI, Snowflake, containers, and AWS, gaining hands-on experience with cutting-edge technologies. Key Responsibilities: Write clean, efficient Python code for various software applications. Collaborate with cross-",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 152,
+  "fields": {
+    "url": "https://www.dice.com/job-detail/4f252d02-caa3-47e5-87f5-c14eec8312ea?searchlink=search%2F%3Fq%3Dpython%26countryCode%3DUS%26radius%3D30%26radiusUnit%3Dmi%26page%3D1%26pageSize%3D100%26filters.postedDate%3DONE%26language%3Den&searchId=faa1e821-ae7d-45d2-9452-9593b534e10b",
+    "title": "Python Developer",
+    "company": "Kforce Technology Staffing",
+    "description": "RESPONSIBILITIES: Kforce is immediately seeking an experienced Python Developer in support of our enterprise telecommunications and mass media client based in Englewood, CO.  Key Tasks: * Python Developer follows company software development lifecycle to design, code, configure, test, debug, and document system and application programs * Assists in preparing technical design specifications based on functional requirements and analysis documents * Reviews functional requirements, analysis and des",
+    "search_source": "www.dice.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 153,
+  "fields": {
+    "url": "https://www.glassdoor.com/job-listing/python-developer-24657-1-dsmh-llc-JV_KO0,24_KE25,33.htm?jl=1008920873949",
+    "title": "Python Developer -(24657-1)",
+    "company": "DSMH LLC",
+    "description": "",
+    "search_source": "www.glassdoor.com",
+    "timestamp": "2023-10-11"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 154,
+  "fields": {
+    "url": "https://www.glassdoor.com/job-listing/ai-python-developer-expedient-JV_KO0,19_KE20,29.htm?jl=1008921128537",
+    "title": "AI Python Developer",
+    "company": "Expedient",
+    "description": "",
+    "search_source": "www.glassdoor.com",
+    "timestamp": "2023-10-11"
+  }
+}
+]
