@@ -55,6 +55,7 @@ def save_jobs_to_database(jobs):
                     description=job_data['description'],
                     search_source=job_data['search_source']
                 )
+                print(job)
                 job.save()
 
 def is_valid_job(title):
