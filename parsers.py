@@ -99,6 +99,8 @@ def indeed(url, city=None, language=None):
             errors.append({'url': url, 'title': "HTML is empty"})
     except Exception as e:
         errors.append({'url': url, 'title': str(e)})
+    print('indeed')
+    print(jobs)
     return jobs, errors
 
 
@@ -199,6 +201,8 @@ def flexjobs(url, city=None, language=None):
                 errors.append({'url': url, 'title': "Div does not exists"})
         else:
             errors.append({'url': url, 'title': "Page do not response"})
+    print('flexjobs')
+    print(jobs)
     return jobs, errors
 
 
@@ -297,6 +301,8 @@ def glassdoor(url, city=None, language=None):
             errors.append({'url': url, 'title': "Div does not exists"})
     else:
         errors.append({'url': url, 'title': "Page do not response"})
+
+    print('glassdoor')
     return jobs, errors
 
 
@@ -345,6 +351,7 @@ def ladders(url, city=None, language=None):
                 parsing = False
         except NoSuchElementException:
             parsing = False
+    print('ladders')
     return jobs, errors
 
 
