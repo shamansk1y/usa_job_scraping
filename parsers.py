@@ -279,32 +279,29 @@ def glassdoor(url, city=None, language=None):
     html = driver.page_source
     if html:
         soup = BS(html, 'html.parser')
-        job_lst = soup.find_all('li', 'JobsList_jobListItem__JBBUV')
+        job_lst = soup.find_all('li', 'JobsList_jobListItem__JBBUV')  
         for job in job_lst:
-            job_id = job['data-jobid']
-            title_element = job.find('a', id='job-title-'+job_id)
-            title = title_element.text if title_element else ''
-            href = title_element['href'] if title_element else ''
-            company_gx72iw = job.find('div', 'css-gx72iw')
-
-            if company_gx72iw:
-                if company_gx72iw.find('div', 'd-flex css-1sohcmw'):
-                    company = company_gx72iw.find('div', 'css-8wag7x').text.strip()
+            if 'data-jobid' in job.attrs:
+                job_id = job['data-jobid']
+                title_element = job.find('a', id='job-title-'+job_id)
+                title = title_element.text if title_element else ''
+                href = title_element['href'] if title_element else ''
+                company_info = job.find('div', class_='EmployerProfile_employerInfo__EehaI')
+                if company_info:
+                    for span in company_info.find_all('span'):
+                        span.extract()
+                    company = company_info.get_text(strip=True)
                 else:
-                    company = company_gx72iw.find('div', 'css-1bgdn7m').text.strip()
-            else:
-                company = ''
-            company = re.sub(rating_pattern, '', company)
-            jobs.append({'title': title, 'url': domain + href,
-                         'description': '', 'company': company,
-                         'city_id': city, 'language_id': language,
-                         'search_source': 'www.glassdoor.com'})
-        else:
-            errors.append({'url': url, 'title': "Div does not exists"})
-    else:
-        errors.append({'url': url, 'title': "Page do not response"})
+                    company = ''
 
-    print('glassdoor')
+                jobs.append({'title': title, 'url': domain + href,
+                            'description': '', 'company': company,
+                            'city_id': city, 'language_id': language,
+                            'search_source': 'www.glassdoor.com'})
+            else:
+                errors.append({'title': "data-jobid attribute missing"})
+    else:
+        errors.append({'url': url, 'title': "Page do not response"})    
     return jobs, errors
 
 
