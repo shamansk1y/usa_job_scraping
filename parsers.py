@@ -136,6 +136,7 @@ def linkedin(url, city=None, language=None):
 def dice(url, city=None, language=None):
     jobs = []
     errors = []
+    domain = 'https://www.dice.com/job-detail/'
     parsing = True
     page = 1
 
@@ -149,11 +150,12 @@ def dice(url, city=None, language=None):
             for job in job_cards:
                 job_title = job.find('h5')
                 title = job_title.a.text.strip()
-                href = job_title.a['href']
+                a_tag = job_title.find('a')
+                href = a_tag.get('id')
                 company_el = job.find('div', 'card-company')
                 company = company_el.a.text.strip()
                 content = job.find('div', {'data-cy': 'card-summary'}).get_text(strip=True)
-                jobs.append({'title': title, 'url': href,
+                jobs.append({'title': title, 'url': domain + href,
                              'description': content, 'company': company,
                              'city_id': city, 'language_id': language,
                              'search_source': 'www.dice.com'})
